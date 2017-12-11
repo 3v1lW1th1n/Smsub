@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

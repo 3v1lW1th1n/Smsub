@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

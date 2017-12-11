@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "/home/samyak/AndroidStudioProjects/Smsub/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "/home/samyak/AndroidStudioProjects/Smsub/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

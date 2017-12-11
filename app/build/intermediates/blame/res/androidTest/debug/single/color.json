@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/samyak/AndroidStudioProjects/Smsub/app/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/samyak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/43f6171fe77cca1c3c607513909f9666/res/color/switch_thumb_material_light.xml"
+    }
+]
