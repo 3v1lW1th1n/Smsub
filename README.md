@@ -175,3 +175,4 @@ If you would like to enable this feature (only allow your theme to be used with 
 Nothing. Now you're set to publish your theme!
 
 ## Written with ❤ from themers and developers alike!
+# Smsub
